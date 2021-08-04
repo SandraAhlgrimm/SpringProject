@@ -1,5 +1,7 @@
 # SpringProject
-Repository for the SpringOne session "From Zero to Spring Boot Hero using GitHub Codespaces"
+
+###Repository for the SpringOne session "From Zero to Spring Boot Hero using GitHub Codespaces"
+
 
 Join us in this 25-minute beginner session where we’ll take you from zero to implementing and running the Spring Boot application using Codespaces.
 
